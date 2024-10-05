@@ -1,3 +1,2 @@
-# New Project
-This project was created from local system.
-created by priya verma...
+This was creted by local storage.
+Created by Priya.
